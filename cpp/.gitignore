@@ -1,0 +1,15 @@
+# Executables
+hello_world
+rectangle
+simple_interest
+sum_two
+swap
+temp_conv
+
+# Object files
+*.o
+*.obj
+
+# Compiled programs
+*.exe
+*.out
